@@ -1,6 +1,0 @@
-streamlit
-pandas
-matplotlib
-seaborn
-# Add openpyxl if your app loads .xlsx files directly
-# openpyxl
